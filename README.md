@@ -1,4 +1,4 @@
-# fibble
+# Blockchain Dapp
 
 A decentralized application to solve problems related to supply chain management system.
 
