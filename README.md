@@ -20,12 +20,12 @@ come to know . So to solve this problem , Blockchain can be taken into account.
    
 
 # Tech stack used : 
- Flutter for App designing, 
- Rinkybi test net as the test blockchain network, 
- firebase to store users details and their role in the supply chain.
- SmartContracts written on Remix IDE ,
- and Metamask as a wallet to  verify transcations on the blockchain.
-
+ Flutter for App designing, \
+ Rinkybi test net as the test blockchain network, \ 
+ firebase to store users details and their role in the supply chain. \
+ SmartContracts written on Remix IDE , \
+ Metamask as a wallet to  verify transcations on the blockchain. \
+ and libraries like web3dart ,and geolocator for addtional functionalities.
 
 
 # Login and SignUp Page
