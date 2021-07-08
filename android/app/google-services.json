@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "372825660963",
+    "project_id": "fibble-d0890",
+    "storage_bucket": "fibble-d0890.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372825660963:android:b407c72a212142adaf5b96",
+        "android_client_info": {
+          "package_name": "com.example.fibble"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372825660963-5oecm3lvjea8dpa8sl07caf578do3a8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX_XhBjyZRkmaEY_yOHL9se-cakRJQN-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372825660963-5oecm3lvjea8dpa8sl07caf578do3a8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,166 @@
+[
+  {
+    "anonymous": false,
+    "inputs": [
+      {
+        "indexed": false,
+        "internalType": "int256",
+        "name": "index",
+        "type": "int256"
+      }
+    ],
+    "name": "Added",
+    "type": "event"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "int256",
+        "name": "_productId",
+        "type": "int256"
+      },
+      {
+        "internalType": "string",
+        "name": "_lastL",
+        "type": "string"
+      }
+    ],
+    "name": "addState",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "string",
+        "name": "_text",
+        "type": "string"
+      },
+      {
+        "internalType": "string",
+        "name": "_date",
+        "type": "string"
+      },
+      {
+        "internalType": "string",
+        "name": "_productDesc",
+        "type": "string"
+      },
+      {
+        "internalType": "string",
+        "name": "_manufacturedby",
+        "type": "string"
+      },
+      {
+        "internalType": "string",
+        "name": "loc",
+        "type": "string"
+      }
+    ],
+    "name": "newItem",
+    "outputs": [
+      {
+        "internalType": "bool",
+        "name": "",
+        "type": "bool"
+      }
+    ],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "string",
+        "name": "_a",
+        "type": "string"
+      },
+      {
+        "internalType": "string",
+        "name": "_b",
+        "type": "string"
+      }
+    ],
+    "name": "concat",
+    "outputs": [
+      {
+        "internalType": "string",
+        "name": "",
+        "type": "string"
+      }
+    ],
+    "stateMutability": "pure",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "int256",
+        "name": "_productID",
+        "type": "int256"
+      }
+    ],
+    "name": "getAllLocation",
+    "outputs": [
+      {
+        "internalType": "string",
+        "name": "",
+        "type": "string"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [],
+    "name": "getProductID",
+    "outputs": [
+      {
+        "internalType": "int256",
+        "name": "",
+        "type": "int256"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "int256",
+        "name": "_productId",
+        "type": "int256"
+      }
+    ],
+    "name": "getState",
+    "outputs": [
+      {
+        "internalType": "int256",
+        "name": "",
+        "type": "int256"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  },
+  {
+    "inputs": [
+      {
+        "internalType": "int256",
+        "name": "_productId",
+        "type": "int256"
+      }
+    ],
+    "name": "searchProduct",
+    "outputs": [
+      {
+        "internalType": "string",
+        "name": "",
+        "type": "string"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  }
+]
