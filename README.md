@@ -36,7 +36,9 @@ come to know . So to solve this problem , Blockchain can be taken into account.
 # Manufacturer side
 ![](https://github.com/abhinvanand01/Blockchain-DApp/blob/a595e9bcb1c2c21417aa80bf39d5eebc3c54278d/manufacturer.gif)
 
+# Generating QR Code On Manufacturer's side
 
+![](https://github.com/abhinvanand01/Blockchain-DApp/blob/1b1cdbf04564819ba126d5ef81427dd5a66f64d4/QR.gif)
 
 
 # Shipper side
